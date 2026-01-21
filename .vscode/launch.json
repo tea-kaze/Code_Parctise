@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Trapping_Rain_Water",
+            "request": "launch",
+            "mainClass": "Trapping_Rain_Water",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
+            "name": "text_code",
+            "request": "launch",
+            "mainClass": "text_code",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

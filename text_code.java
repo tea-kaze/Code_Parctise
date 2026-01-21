@@ -1,34 +1,15 @@
 //package Practice_Code;
-
-abstract class shape {
-    String name;
-    public shape(String name) {
-        this.name = name;
-    }
-    abstract double calculateArea();
-    
-}
-
-class Rectangle extends shape {
-
-    double length;
-    double width;
-
-    public Rectangle(String name, double length, double width) {
-        super(name);
-        this.length = length;
-        this.width = width;
-    }
-
-    @Override
-    double calculateArea() {
-        return length * width;
-    }
-}
-
-
+import java.util.Scanner;
 
 class text_code {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int secondTime = sc.nextInt();
+        int hours = secondTime / 3600;
+        int minutes = (secondTime % 3600) / 60; 
+        int seconds = secondTime % 60;
+        System.out.printf("%d %d %d", hours, minutes, seconds);
+        sc.close();
 
-     
+    }   
 }
