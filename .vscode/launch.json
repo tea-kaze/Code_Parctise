@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Set_Nesting",
+            "request": "launch",
+            "mainClass": "_20260312.Set_Nesting",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
+            "name": "demo02",
+            "request": "launch",
+            "mainClass": "_20260312.demo02",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
+            "name": "demo01",
+            "request": "launch",
+            "mainClass": "_20260312.demo01",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
+            "name": "Variable_parameters",
+            "request": "launch",
+            "mainClass": "_20260312.Variable_parameters",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
+            "name": "Trapping_Rain_Water2",
+            "request": "launch",
+            "mainClass": "Trapping_Rain_Water2",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
             "name": "Trapping_Rain_Water",
             "request": "launch",
             "mainClass": "Trapping_Rain_Water",
