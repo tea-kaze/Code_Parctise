@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "_20260314.PokerGame01.App",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "_20260314.PokerGame03.App",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "_20260314.PokerGame02.App",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "_20260314.PokerGame.App",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
             "name": "Set_Nesting",
             "request": "launch",
             "mainClass": "_20260312.Set_Nesting",
