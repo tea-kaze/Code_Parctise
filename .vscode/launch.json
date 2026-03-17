@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TreamPractice04",
+            "request": "launch",
+            "mainClass": "_20260317.TreamPractice04",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
+            "name": "StreamPractice03",
+            "request": "launch",
+            "mainClass": "_20260317.StreamPractice03",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
+            "name": "StreamPractice02",
+            "request": "launch",
+            "mainClass": "_20260317.StreamPractice02",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
+            "name": "StreamPractice01",
+            "request": "launch",
+            "mainClass": "_20260317.StreamPractice01",
+            "projectName": "Practice_Code_d575abda"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "_20260314.PokerGame01.App",
